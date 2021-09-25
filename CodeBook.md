@@ -8,15 +8,15 @@ This code book describes all of the data fields in the tidy.txt file.
 
 *activity* (string) - The type of activity that they were performing when the measurements were taken
 
-Walking
-Walking Upstairs
-Walking Downstairs
-Sitting
-Standing
+Walking\
+Walking Upstairs\
+Walking Downstairs\
+Sitting\
+Standing\
 Laying
 
 ## Variables
-In the **tidy_data** file, these variables are all of the mean values for the corresponding measurement based on the subject and the activity.  These are all of data type numeric.
+These variables are all of the mean values for the corresponding measurement based on the subject and the activity. These are all of data type numeric.
 * tBodyAccmeanX
 * tBodyAccmeanY
 * tBodyAccmeanZ
