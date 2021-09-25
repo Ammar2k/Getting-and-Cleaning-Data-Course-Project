@@ -21,6 +21,6 @@ The following steps explain the steps in which the raw data was processed.
 ## File Description
 **Course Project.R**: Processes the data from raw to tidy
 
-**tidy_data.csv** is the tidy data after the processing
+**tidy_data.txt** is the tidy data after the processing
 
-**CodeBook.md** describes the variable that are the column names in the tidy data
+**CodeBook.md** gives an introuction to the data in the *tidy_data.txt* file
